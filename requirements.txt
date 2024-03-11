@@ -8,3 +8,5 @@ tenacity
 langchain
 tiktoken
 streamlit_chat
+azure-storage-blob
+PyMuPDF
